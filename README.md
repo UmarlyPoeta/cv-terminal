@@ -2,8 +2,6 @@
 
 A retro-style personal portfolio built to look and feel like a black & green terminal from the 80s. Commands like `about`, `projects`, `skills`, and `contact` simulate a real CLI experience.
 
-![Screenshot](screenshot.png)
-
 ## 💡 Commands
 
 - `about` – a short bio and current goals
@@ -46,6 +44,5 @@ I’m Patryk Kozłowski, a 21-year-old Computer Engineering student at AGH Unive
 
 - ✉️ pkozlowski@student.agh.edu.pl  
 - 🔗 [GitHub](https://github.com/UmarlyPoeta)
-- 🔗 LinkedIn (add if you have one)
 
 ---
