@@ -24,20 +24,6 @@ A retro-style personal portfolio built to look and feel like a black & green ter
 
 The terminal interface is fully responsive and works well on both desktop and mobile devices.
 
-## 🧪 Demo
-
-Try the live version here (add your link):
-
-🔗 [umarlypoeta.github.io/terminal-portfolio](https://umarlypoeta.github.io/terminal-portfolio)
-
-## 📂 Projects Showcase
-
-This portfolio pulls curated projects directly from [my GitHub](https://github.com/UmarlyPoeta) with custom ASCII previews.
-
-## 🧠 About the Author
-
-I’m Patryk Kozłowski, a 21-year-old Computer Engineering student at AGH University of Science and Technology in Kraków. I’m interested in embedded systems, electronics, custom CPU design, and building tools that actually do something useful. Currently I’m also part of the AGH Solar Boat project.
-
 ---
 
 ## 📫 Contact
